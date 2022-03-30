@@ -91,7 +91,7 @@ const Experience = () => {
 
               <div>
               <h4>Flask & Django</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
@@ -131,7 +131,7 @@ const Experience = () => {
 
               <div>
               <h4>Spring Boot</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Beginner</small>
               </div>
             </article>
 
@@ -141,7 +141,7 @@ const Experience = () => {
 
               <div>
               <h4>Heroku & Azure</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
