@@ -22,22 +22,22 @@ import 'swiper/css/pagination';
 const data=[
   {
     avatar: AVTR1,
-    name: 'Dogesh Cheemad',
+    name: 'Unknown Person',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi eaque magnam possimus saepe quae fugiat repellendus magni itaque alias.Magni velit in facere voluptatem deserunt quasi. Magnam ullam cumque distinctio?'
   },
   {
     avatar: AVTR2,
-    name: 'Dogesh Cheemad',
+    name: 'Unknown Person',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi eaque magnam possimus saepe quae fugiat repellendus magni itaque alias.Magni velit in facere voluptatem deserunt quasi. Magnam ullam cumque distinctio?'
   },
   {
     avatar: AVTR3,
-    name: 'Dogesh Cheemad',
+    name: 'Unknown Person',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi eaque magnam possimus saepe quae fugiat repellendus magni itaque alias.Magni velit in facere voluptatem deserunt quasi. Magnam ullam cumque distinctio?'
   },
   {
     avatar: AVTR4,
-    name: 'Dogesh Cheemad',
+    name: 'Unknown Person',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi eaque magnam possimus saepe quae fugiat repellendus magni itaque alias.Magni velit in facere voluptatem deserunt quasi. Magnam ullam cumque distinctio?'
   },
 ]

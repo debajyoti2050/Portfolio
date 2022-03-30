@@ -48,6 +48,9 @@ header{
     padding: 5rem 1.5rem 1.5rem 1.5rem ;
     
 }
+.meimg{
+    border-radius:9rem 9rem 0 0;
+}
 
 .scroll__down{
     position: absolute;
@@ -69,7 +72,7 @@ header{
 
 @media screen and (max-width: 600px) {
     header{
-        height:100vh;
+        height:105vh;
     }
         .header__socials,.scroll__down{
             display:none;

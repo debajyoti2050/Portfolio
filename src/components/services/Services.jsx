@@ -61,12 +61,12 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur  elit.</p>
+                <p>Responsive Websites.</p>
               </li>
 
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur  elit.</p>
+                <p>Web Applications (B2B,B2C).</p>
               </li>
 
               <li>
